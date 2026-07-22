@@ -1,7 +1,8 @@
 """
 Multi-Agent-Clinical-Intelligence-Assistant
 LangGraph + RAG + FastAPI + Weaviate + MCP Schemas
-Author: Premchand Kothapalli
+Author: Meghana Pentyala
+
 """
 
 import logging
