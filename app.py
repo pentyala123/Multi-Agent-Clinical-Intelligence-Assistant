@@ -1,5 +1,5 @@
 """
-Life Sciences Multi-Agent AI Chatbot
+Multi-Agent-Clinical-Intelligence-Assistant
 LangGraph + RAG + FastAPI + Weaviate + MCP Schemas
 Author: Premchand Kothapalli
 """
