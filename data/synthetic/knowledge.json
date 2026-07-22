@@ -1,0 +1,25 @@
+{
+  "notice": "Synthetic educational reference content; not authoritative guidance.",
+  "documents": [
+    {
+      "title": "Synthetic clinical trial record structure",
+      "source": "synthetic://clinical-trials/record-structure",
+      "content": "A demonstration trial record may track an identifier, phase, indication, sponsor, recruitment status, eligibility criteria, endpoints, and study locations. Verify real trial information with the applicable registry and study sponsor."
+    },
+    {
+      "title": "Synthetic drug interaction review checklist",
+      "source": "synthetic://drug-interactions/review-checklist",
+      "content": "A demonstration interaction review records both substances, possible mechanism, severity category, evidence source, and review date. Real interaction questions require a pharmacist, clinician, and authoritative labeling or drug-information source."
+    },
+    {
+      "title": "Synthetic regulatory submission overview",
+      "source": "synthetic://regulatory/submission-overview",
+      "content": "A demonstration regulatory record may include agency, submission type, product context, guideline reference, applicability, version, and review status. Requirements vary and must be confirmed with current official guidance."
+    },
+    {
+      "title": "Synthetic pharmacovigilance signal workflow",
+      "source": "synthetic://pharmacovigilance/signal-workflow",
+      "content": "A demonstration safety workflow can collect event terms, seriousness, expectedness, timing, data source, duplicate status, and reviewer disposition. It does not replace formal adverse-event reporting or qualified safety assessment."
+    }
+  ]
+}
